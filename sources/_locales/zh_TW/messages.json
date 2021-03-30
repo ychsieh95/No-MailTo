@@ -1,0 +1,11 @@
+{
+    "app_description": {
+      "message": "點擊電子郵件信箱連結時，避免網站開啟您的電子郵件信箱客戶端應用程式並改為複製至剪貼簿。"
+    },
+    "tooltip_precopy": {
+      "message": "點擊以複製電子郵件信箱位址"
+    },
+    "tooltip_success": {
+      "message": "🎉電子郵件信箱位址已成功複製至剪貼簿🎉"
+    }
+  }

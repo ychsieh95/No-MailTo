@@ -1,0 +1,11 @@
+{
+  "app_description": {
+    "message": "Stop websites from opening your mail client when clicking on email links."
+  },
+  "tooltip_precopy": {
+    "message": "Click to copy email address"
+  },
+  "tooltip_success": {
+    "message": "🎉Email address copied to clipboard!🎉"
+  }
+}
